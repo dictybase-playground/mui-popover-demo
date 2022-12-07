@@ -1,4 +1,4 @@
 # MUI popover component demo 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/dictybase-playground/mui-popover-demo?file='Demo.tsx'&title='MUI popover demo'&view=preview)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/dictybase-playground/mui-popover-demo?file='Demo.tsx'&view=preview)
 
 
